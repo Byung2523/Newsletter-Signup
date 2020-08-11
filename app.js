@@ -42,7 +42,7 @@ app.post("/", function(req,res) {
 	// Look over for clear description
 	const options = {
 		method: "POST",
-		auth: "aragon:89cd874d6af41995f2da21102e5fd3e7-us19"
+		auth: // "username: API key generated in mail chimp"
 	}
 
 	// Using the https and request npm to display the information in our node screen.
